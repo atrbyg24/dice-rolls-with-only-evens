@@ -5,5 +5,7 @@ number of throws (including the throw giving 6) conditioned on the event
 that all throws gave even numbers?
 
 Reference:
+
 https://www.yichijin.com/files/elchanan.pdf
+
 https://gilkalai.wordpress.com/2017/09/07/tyi-30-expected-number-of-dice-throws/
