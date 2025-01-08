@@ -4,6 +4,9 @@ You throw a fair six-sided die until you get 6. What is the expected
 number of throws (including the throw giving 6) conditioned on the event
 that all throws gave even numbers?
 
+The intuition for many is that the answer should be 3 but it is actually 3/2
+which can be seen through the program results or using conditional probability.
+
 The program also explores some generalizations of the problem:
 -rolling until obtaining a total of n 6s where n > 1
 -rolling until obtaining n consecutive 6s where n > 1 
